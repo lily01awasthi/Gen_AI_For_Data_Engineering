@@ -6,4 +6,4 @@ This repository contains notes and projects from the "Generative AI for Data Eng
 * etl_using_gen_ai.ipynb: This notebook covers how to integrate generative AI into ETL processes.
 * gen_ai_for_data_analysis.ipynb: Practical examples of using generative AI for data analysis.
 * synthetic_data_generation.ipynb: A project focused on generating synthetic data using generative AI methods.
-ToDO: Production of a genAI Projection
+
